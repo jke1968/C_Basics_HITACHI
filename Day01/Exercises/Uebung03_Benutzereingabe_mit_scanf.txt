@@ -1,0 +1,6 @@
+Übung 03 - Eingabe mit scanf
+============================
+
+Schreiben Sie ein C-Programm, das 2 Zahlen vom Benutzer einliest und sie dann, abhängig von einer weiteren Eingabe, addiert oder subtrahiert. Falsche Eingaben sollen mit passenden Fehlermeldungen quittiert werden.
+
+"Never trust input data"

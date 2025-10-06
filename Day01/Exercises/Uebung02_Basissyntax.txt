@@ -1,0 +1,8 @@
+Übung 2 Basissyntax
+===================
+
+Schreiben Sie ein C-Programm, das bei Eingabe von Koerpergroesse in cm und Geschlecht das Idealgewicht berechnet und ausgibt. Das Idealgewicht ist gleich dem Normalgewicht mal 1 für Männer, bzw. dem Normalgewicht mal 0,8 für Frauen. Das Normalgewicht ist die Koerpergroesse in cm - 100.
+
+Die Berechnung soll in einer Funktion stattfinden, die keine Ausgabe produziert.
+(Also kein printf in der Funktion)
+

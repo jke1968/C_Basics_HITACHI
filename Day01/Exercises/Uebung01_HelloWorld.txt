@@ -1,0 +1,4 @@
+Übung 01 - Umgang mit der IDE
+=============================
+
+Schreiben Sie ein Programm, das den Sourcecode des HelloWorld-Programms auf die Konsole ausgibt.
