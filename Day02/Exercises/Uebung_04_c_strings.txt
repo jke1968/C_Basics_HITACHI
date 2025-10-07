@@ -1,0 +1,6 @@
+Übung 04 Umgang mit Strings
+===========================
+
+Schreiben Sie ein Programm, das einen String vom Benutzer einliest und prüft, ob es sich bei ihm um ein Palindrom handelt. Diese Prüfung soll in einer eigenen Funktion stattfinden, in der keine Ein- und Ausgabe stattfindet.
+
+Beispiele für Palindrome: ANNA, LAGERREGAL, RELIEFPFEILER etc...

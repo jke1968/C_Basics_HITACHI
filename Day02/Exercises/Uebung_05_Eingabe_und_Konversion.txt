@@ -1,0 +1,7 @@
+Übung 05 - Eingabe und Konversion
+=================================
+
+Schreiben Sie ein Notenverwaltungsprogramm mit dem Noten eingegeben und ausgegeben werden können. Ausserdem soll die beste Note und der Durchschnitt berechnet werden können. Achten Sie darauf, dass fehlerhafte Benutzereingaben mit passenden Fehlermeldungen quittiert werden.
+
+
+
