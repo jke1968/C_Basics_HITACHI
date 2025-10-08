@@ -1,0 +1,5 @@
+Übung 06 Pointer I
+==================
+
+Schreiben Sie eine Funktion "tausche", die zwei int Parameter akzeptiert und die Inhalte der 
+Parameter vertauscht.

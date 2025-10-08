@@ -1,0 +1,25 @@
+Übung 08 Pointer und structs
+============================
+
+Schreiben Sie eine Funktion, mit folgender Signatur:
+
+void createDateFromString(char dateString[], DATE* date)
+// besser:
+void createDateFromString(const char* dateString, DATE* date)
+
+Die den String "dateString" im Format "DD-MM-JJJJ" in die struct DATE schreibt:
+
+typedef struct {
+	int tag;
+	int monat;
+	int jahr;
+} DATE;
+
+createDateFromString("08-10-2025",&date)
+
+printf(date->tag)
+-> 8
+printf(date->monat)
+-> 10
+printf(date->jahr)
+-> 2022

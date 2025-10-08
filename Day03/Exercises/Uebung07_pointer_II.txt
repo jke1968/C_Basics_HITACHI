@@ -1,0 +1,10 @@
+Übung 07 pointer II
+===================
+
+Schreiben Sie eine Funktion 
+
+char* my_strcpy(char* dest, const char* source)
+
+die den C-String source in den C-String dest kopiert.
+
+Verwenden Sie dabei keinen Aufruf von strlen und keinen counter in der Funktion.
