@@ -25,6 +25,9 @@ void printArray(const PERSON*  persons, int noOfPersons) {
 }
 int main() {
 	int noOfPersons = 0;
+	// Pointer auf ein Array von Elementen vom Typ PERSON
+	// -> die Groesse des Arrays wird erst zur Laufzeit ermittelt
+	// und der Speicher erst dann alloziert
 	PERSON* persons = NULL;
 	printf("Wieviele Personen sollen angelegt werden?\n");
 	if (scanf("%d", &noOfPersons) != 1) {
