@@ -1,0 +1,13 @@
+Übung 10
+========
+
+Schreiben Sie ein C-Programm mit zwei Funktionen:
+
+void set_bit_on(uint8_t byte, int bitNr);   -> setzt das bit mit der Nummer bitNr auf 1
+void set_bit_off(uint8_t byte, int bitNr);  -> setzt das bit mit der Nummer bitNr auf 0
+
+auch möglich:
+
+uint8_t byte = 0; // globale Variable
+void set_bit_on(int bitNr);   -> setzt das bit mit der Nummer bitNr auf 1
+void set_bit_off(int bitNr);  -> setzt das bit mit der Nummer bitNr auf 0

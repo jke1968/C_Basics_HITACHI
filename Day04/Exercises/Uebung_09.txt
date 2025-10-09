@@ -1,0 +1,13 @@
+Übung 09 Kommandozeilenargumente
+=================================
+
+Schreiben Sie einen Kommandozeilenrechner in C
+
+Bsp.
+
+rechner.exe 1 + 2
+Ergebnis: 3
+
+Zusatz:
+
+rechner.exe mit beliebig langen arithmetischen Ausdrücken

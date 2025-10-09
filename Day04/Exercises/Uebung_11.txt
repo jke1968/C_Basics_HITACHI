@@ -1,0 +1,14 @@
+Übung 11 malloc und free
+=========================
+
+Gegeben sei folgeden struct:
+
+typedef struct {
+	int nummer;
+	char name[20];
+} PERSON;
+
+Schreiben Sie ein Programm, das zunächst vom Benutzer die Anzahl der Personen abfragt, und dann ein Array vom Typ PERSON in der gewünschten Größe anlegt.
+
+Das Array soll dann mit Default-Werten initialisiert werden.
+
