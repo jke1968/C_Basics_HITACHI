@@ -1,0 +1,18 @@
+Agenda C-Kurs Oktober 25
+========================
+
+01 Hello World (Umgang mit der IDE)
+02 Basissyntax (Variablen, Schleifen, Verzweigungen, Funktionen)
+03 Benutzereingabe
+04 Arrays
+05 Char-Arrays aka Strings
+06 Eingabe und Konversion
+07 Pointer 
+08 Pointer und Arrays
+09 Enums
+10 structs
+11 Kommandozeilenargumente
+12 Bit-Operatoren
+13 Dynamische Speicherallokation
+14 Zufallszahlen
+
