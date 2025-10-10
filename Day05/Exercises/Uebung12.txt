@@ -1,0 +1,14 @@
+Übung 12  Abschlussübung
+========================
+
+A
+
+Schreiben Sie ein Programm, mit dem der Benutzer das Spiel "17 und 4" gegen den Rechner spielen kann.
+
+
+oder 
+
+B
+
+Schreiben Sie ein Programm zur Verwaltung von Artikeldaten. Ein Artikel hat eine Nr, einen Namen, einen Preis und gehört entweder zu Kategorie "Food" oder "NonFood". Das Programm soll das Eintragen und Löschen von Artikeln in/aus eine(r) Liste unterstützen. Die Liste soll ausgegeben werden können. Ausserdem sollen auf Anfrage nur Artikel einer bestimmten Kategorie ausgegeben werden können. Schliesslich soll die Artikelliste auch sortiert ausgegeben werden können. (-> Funktion qsort aus der C-Standardbibliothek) 
+

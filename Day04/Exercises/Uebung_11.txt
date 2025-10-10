@@ -12,3 +12,7 @@ Schreiben Sie ein Programm, das zunächst vom Benutzer die Anzahl der Personen a
 
 Das Array soll dann mit Default-Werten initialisiert werden.
 
+Dann sollen alle Elemente des Arrays ausgegeben werden.
+
+Am Ende soll das Array wieder freigegeben werden.
+
